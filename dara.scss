@@ -1,0 +1,79 @@
+/*-- scss:defaults --*/
+$navy: #1B3668;
+$gold: #B07D2B;
+$body-bg: #ffffff;
+$body-color: #1B2A41;
+$link-color: $gold;
+$presentation-heading-color: $navy;
+$presentation-heading-font-weight: 600;
+$font-family-sans-serif: "Calibri", "Segoe UI", sans-serif;
+
+/*-- scss:rules --*/
+.reveal h2 {
+  border-bottom: 3px solid $gold;
+  padding-bottom: 0.15em;
+  margin-bottom: 0.6em;
+}
+.reveal .slide-logo {
+  max-height: 60px;
+  height: 60px;
+}
+.reveal section.navy {
+  color: #ffffff;
+}
+.reveal section.navy h1,
+.reveal section.navy h2 {
+  color: #ffffff;
+  border-color: $gold;
+}
+.activity {
+  background: #FBF3E4;
+  border-left: 8px solid $gold;
+  padding: 0.4em 0.8em;
+  border-radius: 4px;
+}
+.activity h3 {
+  color: $gold;
+  margin-top: 0;
+}
+.small {
+  font-size: 0.75em;
+}
+.tbl-grid td {
+  border: 2px solid $navy;
+  padding: 0.5em;
+  text-align: center;
+}
+.reveal table th {
+  color: $navy;
+}
+.activity-title {
+  display: block;
+  color: $gold;
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-bottom: 0.3em;
+}
+.reveal section.tight {
+  font-size: 0.85em;
+}
+.reveal section.tight h2 {
+  margin-bottom: 0.3em;
+}
+.reveal section.tight table td,
+.reveal section.tight table th {
+  padding: 0.15em 0.5em;
+}
+.reveal section.tight ul,
+.reveal section.tight ol {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+.reveal section.tight img {
+  max-height: 55vh;
+}
+.refs p {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+  margin: 0.4em 0;
+}

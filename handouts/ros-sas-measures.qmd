@@ -1,0 +1,67 @@
+---
+title: "What is your interdisciplinary orientation?"
+subtitle: "DARA Induction 2026 · Teamwork workshop · Activity 1"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 1.6cm
+      y: 1.3cm
+    fontsize: 9.5pt
+    toc: false
+---
+
+**Alone (5 min).** Complete the Research Orientation Scale below, then score your **U**ni-, **M**ulti- and **I**nterdisciplinary orientation. Scores are for self-reflection, not diagnosis. The Scholarly Activities Scale on page 2 can be completed later as a take-home.
+
+## 1. Research Orientation Scale
+
+Rate how strongly you agree or disagree with each statement. Circle one number: **1** = Strongly disagree, **2** = Disagree, **3** = Neither agree nor disagree, **4** = Agree, **5** = Strongly agree.
+
+| Type | Item | 1 | 2 | 3 | 4 | 5 |
+|:--:|:---------------------------------------------|:-:|:-:|:-:|:-:|:-:|
+| U | I tend to be more productive working on my own research projects than working as a member of a collaborative research team. | 1 | 2 | 3 | 4 | 5 |
+| U | There is so much work to be done within my field that it is important to focus my research efforts with others in my own discipline. | 1 | 2 | 3 | 4 | 5 |
+| U | The research questions I am often interested in generally do not warrant collaboration from other disciplines. | 1 | 2 | 3 | 4 | 5 |
+| | **Average for U:** \_\_\_\_\_\_ | | | | | |
+| M | While working on a research project within my discipline, I sometimes feel it is important to seek the perspective of other disciplines when trying to answer particular parts of my research question. | 1 | 2 | 3 | 4 | 5 |
+| M | Although I rely primarily on knowledge from my primary field of interest, I usually work interactively with colleagues from other disciplines to address a research problem. | 1 | 2 | 3 | 4 | 5 |
+| | **Average for M:** \_\_\_\_\_\_ | | | | | |
+| I | The benefits of collaboration among scientists from different disciplines usually outweigh the inconveniences and costs of such work. | 1 | 2 | 3 | 4 | 5 |
+| I | In my collaborations with others I integrate research methods from different disciplines. | 1 | 2 | 3 | 4 | 5 |
+| I | In my own work, I typically incorporate perspectives from disciplinary orientations that are different from my own. | 1 | 2 | 3 | 4 | 5 |
+| I | Although I was trained in a particular discipline, I devote much of my time to understanding other disciplines in order to inform my research. | 1 | 2 | 3 | 4 | 5 |
+| I | In my collaborations with others I integrate theories and models from different disciplines. | 1 | 2 | 3 | 4 | 5 |
+| | **Average for I:** \_\_\_\_\_\_ | | | | | |
+
+**Thought questions**
+
+1. Which type (U, M or I) did you score highest in? Lowest?
+2. Has this changed over your career?
+
+\
+**Pairs (6 min).** Compare scores, then discuss how it has felt working in a group in the past. Recall one moment that worked well and one that was hard: was it about the **science or task**, or about **how the group or team worked**?
+
+```{=typst}
+#pagebreak()
+```
+
+## 2. Scholarly Activities Scale (take-home)
+
+How often do you typically engage in each activity, across **all** of your professional activities? Circle one number: **1** = Never, **2** = Rarely, **3** = Once a year, **4** = Twice a year, **5** = Quarterly, **6** = Monthly, **7** = Weekly.
+
+| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:---------------------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| (1) Read journals or publications outside of your primary field | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| (2) Attend meetings or conferences outside of your primary field | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| (3) Participate in working groups or committees with the intent to integrate ideas with other participants | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| **Sum score, items 1 to 3:** \_\_\_\_\_\_ | | | | | | | |
+| (4) Obtain new insights into your own work through discussion with colleagues who come from different fields or disciplinary orientations | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| (5) Modify your own work or research agenda as a result of discussions with colleagues who come from different fields or disciplinary orientations | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| (6) Establish links with colleagues from different fields or disciplinary orientations that have led to or may lead to future collaborative work | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| **Sum score, items 4 to 6:** \_\_\_\_\_\_ | | | | | | | |
+
+**Thought questions**
+
+1. Did you score higher in items 1 to 3 or items 4 to 6?
+2. Do you want to change either? If so, which set and in which direction?
+3. Has this changed over your career?

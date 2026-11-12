@@ -1,0 +1,56 @@
+---
+title: "Trust and conflict scenarios"
+subtitle: "DARA Induction 2026 · Teamwork workshop · Activity 2"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 1.6cm
+      y: 1.3cm
+    fontsize: 9.5pt
+    toc: false
+---
+
+**Your team (15 min).** Your team works on **one scenario** (circle it below). Use your Escape Room team.
+
+1. **Diagnose (3 min):** Which conflict type(s) are involved? Is the damaged trust about **expertise** (task side) or **goodwill** (team side)?
+2. **Respond (7 min):** What would you say or do first? What could the team have agreed **in advance** to prevent this?
+3. **Write (3 min):** One sentence for your team's **"How we handle disagreement"** charter line (box below).
+4. **Report (2 min):** One takeaway per team.
+
+| Conflict type | About | Example |
+|:---|:---|:---|
+| **Task** | The content of the work | Two fields interpret the same result differently |
+| **Relationship** | Personal friction | Tension after blunt feedback |
+| **Contribution** | Who does how much, who gets credit | Disagreement over author order |
+| **Logistical** | Time, tools, coordination | A shared dataset arrives late |
+
+*Conflict is not always harmful: how a team handles it matters more than whether it occurs.*
+
+## A. Author order
+
+Five people from three institutions are finishing a paper. Sam wrote most of the text and assumed first authorship. Alex did the analysis and now says it was the core contribution and asks to share first authorship. Authorship was never discussed at the start, and the submission deadline is in two days.
+
+## B. Same result, different readings
+
+A computer scientist and a psychologist in an interdisciplinary team find that their model improves accuracy by three percentage points. The computer scientist calls this a strong result. The psychologist says the measure is not valid and the difference is trivial and possibly due to sampling error alone. Meetings keep circling, and each feels the other does not understand their field.
+
+## C. The missing dataset
+
+Four team members are waiting for Pat's cleaned dataset to finish a conference abstract. Pat promised it by Friday. Nothing arrives and Pat has not replied. Two colleagues begin complaining about Pat in a private chat. Pat is in a different time zone and is also overloaded with teaching.
+
+## D. Blunt feedback
+
+In the weekly meeting a senior team member says to a first-year PhD fellow, in front of everyone: "This analysis does not make sense. Have you even inspected your data at all? Did you even check any assumptions of this analysis?" The fellow goes quiet and withdraws, and over the following weeks stops sharing drafts. Others notice, but nobody says anything.
+
+## E. The industry deadline
+
+A university team is building a predictive model with an industry partner. The partner's manager wants a dashboard for a board meeting in ten days and asks to report the model accuracy now. The PhD researchers know the model has not been validated on some new data and want another month. The partner also wants to keep the data and code confidential, while the researchers are committed to open science and also need to publish. Team members split between "deliver what the client needs" and "protect scientific integrity", and no one is sure how to proceed.
+
+## Our "How we handle disagreement" sentence
+
+```{=typst}
+#rect(width: 100%, height: 2.6cm, stroke: 0.6pt + gray, radius: 3pt)[
+  #align(top + left)[#pad(6pt)[#text(fill: gray, size: 8pt)[Scenario: \_\_\_\_  Conflict type(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]]]
+]
+```

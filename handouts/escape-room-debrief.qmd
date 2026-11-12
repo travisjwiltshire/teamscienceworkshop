@@ -1,0 +1,65 @@
+---
+title: "Escape Room debrief: team reflexivity"
+subtitle: "DARA Induction 2026 · Teamwork workshop · Lunch debrief"
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 1.6cm
+      y: 1.3cm
+    fontsize: 9.5pt
+    toc: false
+---
+
+**Your team (20 to 30 min).** Use your Escape Room team and your team charter. Work through the three reflexivity steps below (about 8 min each), then share **one** concrete suggestion per team in plenary.
+
+*Scenario to keep in mind: you have just completed a team performance episode. How did the team work, and what will you change next time?*
+
+## 1. Review: how did we perform?
+
+- How did we ask for information? How did we pass it on?
+- How were we organized? Who did what, and why?
+- Did everyone get heard? Were ideas **combined**, or only passed on?
+- Was any moment a **task**, **relationship**, **contribution** or **logistical** issue?
+- Which part of our team charter did we use?
+
+```{=typst}
+#rect(width: 100%, height: 2.6cm, stroke: 0.6pt + gray, radius: 3pt)[
+  #align(top + left)[#pad(6pt)[#text(fill: gray, size: 8pt)[Notes]]]
+]
+```
+
+## 2. Improve: what could we do differently?
+
+- What alternatives to our approach could we have tried?
+- What would we change in how we shared information, divided work or handled disagreement?
+- Did our strategy change after a failure? Why or why not?
+
+```{=typst}
+#rect(width: 100%, height: 2.6cm, stroke: 0.6pt + gray, radius: 3pt)[
+  #align(top + left)[#pad(6pt)[#text(fill: gray, size: 8pt)[Notes]]]
+]
+```
+
+## 3. Plan: what will we do next time?
+
+- What will we do differently **next time**, in the Escape Room or in our PhD teams?
+- Which line of our team charter should we add or change?
+
+```{=typst}
+#rect(width: 100%, height: 2.6cm, stroke: 0.6pt + gray, radius: 3pt)[
+  #align(top + left)[#pad(6pt)[#text(fill: gray, size: 8pt)[Our one suggestion for plenary]]]
+]
+```
+
+## My evidence log (individual)
+
+One concrete example of **what I did** in the Escape Room, and **what I would do differently**.
+
+```{=typst}
+#rect(width: 100%, height: 3.2cm, stroke: 0.6pt + gray, radius: 3pt)[
+  #align(top + left)[#pad(6pt)[#text(fill: gray, size: 8pt)[My contribution and what I would change]]]
+]
+```
+
+*Reflexivity steps based on Gurtner et al. (2007), as described in Fiore, Gabelica, Wiltshire & Stokols (2019); Gabelica et al. (2014).*
