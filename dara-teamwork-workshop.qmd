@@ -246,7 +246,7 @@ Contributions are increasingly **made visible**, for example with
 [CRediT author roles](https://credit.niso.org/) and [narrative
 CVs](https://sfdora.org/?s=narrative+CV).
 
-## Beyond academia, employers ask for the same skills
+## Beyond academia, employers ask for the same skills {.smaller}
 
 ::::: columns
 ::: {.column width="55%"}
@@ -272,14 +272,14 @@ Stokols (2019)
 :::
 :::::
 
-## Whichever path you choose, teamwork continues to matter {.tight}
+## Whichever path you choose, teamwork continues to matter {.tight .bigfig}
 
 ::::: columns
-::: {.column width="50%"}
-![](img/NSF-industry-academia.png){height="300"}
+::: {.column width="62%"}
+![](img/NSF-industry-academia.png)
 :::
 
-::: {.column width="50%"}
+::: {.column width="38%"}
 ```{mermaid}
 flowchart TB
   A[PhD team] --> B[Postdoc / academia]
@@ -536,13 +536,13 @@ BY 4.0)
 
 ## Safe Labs Handbook
 
-<iframe src="https://safelabs.info/handbook/" width="100%" height="480" style="border:none;">
+<iframe src="https://safelabs.info/handbook/" width="100%" height="500" style="border:none;" loading="lazy">
 
 </iframe>
 
 <p class="small" style="margin-top:0;">
 
-https://safelabs.info/handbook/
+<https://safelabs.info/handbook/> (open in a new tab if the embed looks off)
 
 </p>
 
@@ -553,7 +553,7 @@ https://safelabs.info/handbook/
 
 ## Activity 3: Evidence of teamwork {.navy background-color="#1B3668"}
 
-## Audit your teamwork evidence
+## Audit your teamwork evidence {.smaller}
 
 ::: activity
 [Individual (5 min), then pairs (5 min) · 10 min]{.activity-title}
@@ -599,7 +599,7 @@ Wiltshire & Stokols (2019); Gabelica et al. (2014)
 
 ## Activity 4: Team Charter {.navy background-color="#1B3668"}
 
-## Navigating the teamwork component with a Team Charter
+## Navigating the teamwork component with a Team Charter {.smaller}
 
 1.  **Expertise map** (roles): strengths and weaknesses, preferred work
     styles, availability and contact information
@@ -726,7 +726,7 @@ whether it has this elements for building, maintaining, and sustaining
 (or even amicabling brining a project/team to a close).
 :::
 
-## Take home {.tight}
+## Take home {.smaller .tight}
 
 - Collaboration is linked with greater research impact, but only when it
   **works**: that part is learnable
