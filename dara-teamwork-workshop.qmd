@@ -27,9 +27,17 @@ editor:
 
 ## Slides and materials {.smaller}
 
+:::: {.columns}
+::: {.column width="65%"}
 - Slides (live): <https://travisjwiltshire.github.io/teamscienceworkshop/>
 - Repository with handouts and source:
   <https://github.com/travisjwiltshire/teamscienceworkshop>
+:::
+
+::: {.column width="35%"}
+![Scan for the slides](img/slides-qr.png){fig-align="center" width="320"}
+:::
+::::
 
 ## About Me (Travis J. Wiltshire) {.smaller .tight}
 
@@ -146,17 +154,21 @@ they would working alone.
 ::::: columns
 ::: {.column width="50%"}
 ![The Apollo missions](img/apollo.jpg){fig-alt="Apollo mission"
-height="330"}
+height="240"}
 :::
 
 ::: {.column width="50%"}
 ![Willi Dansgaard](img/dansgaard.JPEG){fig-alt="Willi Dansgaard"
-height="330"}
+height="240"}
 :::
 :::::
 
+![](img/gta_6.png){fig-alt="Headline: GTA 6 debuts with an astonishing 99 Metacritic score" fig-align="center" width="60%"}
+
 ::: notes
-Two examples of scientific teamwork.
+Two examples of scientific teamwork, plus one from outside science.
+
+
 
 Apollo missions: landing humans on the Moon was only possible because of
 a very large, coordinated effort. Commonly cited figures are around
@@ -172,6 +184,12 @@ temperatures). Ice coring needed physicists, chemists, glaciologists,
 drillers and logistics teams, and long-running international projects
 (e.g., Camp Century, Dye 3, GRIP). The Dansgaard-Oeschger events are
 named for him and the Swiss physicist Hans Oeschgers.
+
+GTA 6 headline: a deliberately non-scientific example to show that the
+same logic holds anywhere. Blockbuster games are reportedly built by
+very large, multi-year teams of designers, artists, writers, engineers,
+audio and QA specialists, so a top-rated product is a team outcome, not
+the work of one genius. 
 
 what did these teams need beyond individual talent?
 :::
@@ -195,7 +213,7 @@ what did these teams need beyond individual talent?
 Hall et al. (2018) reviewed the empirical literature on science teams.
 
 - **Boundary-spanning** collaborations (international, multi-university,
-  cross-disciplinary) are associated with greater productivity and
+  inter/cross/multi-disciplinary) are associated with greater productivity and
   scientific impact than less distributed teams or solo work
 - Team size is consistently and positively associated with research
   impact
@@ -206,8 +224,10 @@ Hall et al. (2018) reviewed the empirical literature on science teams.
 
 <p class="small">
 
-Hall, Vogel, Huang, Serrano, Rice, Tsakraklides & Fiore (2018),
-*American Psychologist*, 73(4), 532-548
+Hall, K. L., Vogel, A. L., Huang, G. C., Serrano, K. J., Rice, E. L.,
+Tsakraklides, S. P., & Fiore, S. M. (2018). The science of team science:
+A review of the empirical evidence and research gaps on collaboration in
+science. *American Psychologist, 73*(4), 532–548.
 
 </p>
 
@@ -254,7 +274,7 @@ CVs](https://sfdora.org/?s=narrative+CV).
   graduate and PhD-level recruitment
 - Many PhD graduates work outside academia, in industry, healthcare,
   policy, start-ups
-- Cross-disciplinary teams are the default in industry R&D
+- Multi-disciplinary teams are the default in industry R&D
 :::
 
 ::: {.column width="45%"}
@@ -274,22 +294,9 @@ Stokols (2019)
 
 ## Whichever path you choose, teamwork continues to matter {.tight .bigfig}
 
-::::: columns
-::: {.column width="62%"}
-![](img/NSF-industry-academia.png)
-:::
 
-::: {.column width="38%"}
-```{mermaid}
-flowchart TB
-  A[PhD team] --> B[Postdoc / academia]
-  A --> C[Industry R&D]
-  A --> D[Policy, health, NGO]
-  A --> E[Start-up]
-  B & C & D & E --> F[All often work in teams]
-```
-:::
-:::::
+![](img/NSF-industry-academia.png)
+
 
 - The competence **transfers**; the context and vocabulary change
 
@@ -340,7 +347,7 @@ communication (team-contingent), knowledge building (task-contingent),
 team reflexivity (transportable).
 :::
 
-## Components of *Team* work in Science
+## Components of *Team* work in Science (ABCs)
 
 ![](img/KSA.PNG)
 
@@ -351,6 +358,9 @@ convey message in appropriate ways
 :::
 
 ## Activity 2: Affect: Trust & Conflict {.navy background-color="#1B3668"}
+
+## Trust in teams
+![https://scim.ag/4AzunlJ](img/science_mag_humility.PNG)
 
 ## Trust and conflict: a task side and a team side
 
@@ -467,7 +477,7 @@ charter.
 ::: {.column width="33%"}
 ### Shared mental models
 
-*Cognition.* Who knows what? (transactive memory)
+*Cognition.* Do we understand this similarly? And who knows what? (transactive memory)
 :::
 ::::::
 
@@ -542,9 +552,13 @@ BY 4.0)
 
 <p class="small" style="margin-top:0;">
 
-<https://safelabs.info/handbook/> (open in a new tab if the embed looks off)
+<https://safelabs.info/handbook/> (open in a new tab)
 
 </p>
+
+::: notes
+what if you don't have a lab? Or if you collaborate widely across labs/disciplines? How can you use this? Adapt to a person perhaps, Makes expectations for collaboration explicit 
+:::
 
 ## Repository Commit History {.scrollable}
 
@@ -595,6 +609,7 @@ Wiltshire & Stokols (2019); Gabelica et al. (2014)
 </p>
 
 ::: notes
+What even is a team performance episode in science? When should you engage in reflexivity? 
 :::
 
 ## Activity 4: Team Charter {.navy background-color="#1B3668"}
@@ -618,6 +633,10 @@ successful team performance trajectories: The roles of team charters and
 performance strategies. Journal of Applied Psychology, 94(1), 90.
 
 </p>
+
+::: notes
+When should you build a team charter? When starting a new position? Hiring someone? Working on a grant together? Asked to collab and help? As a lab?
+:::
 
 ## Your team for the Escape room today
 
@@ -706,11 +725,11 @@ slide, so the group experiences the method rather than just hearing
 about it. Return to the Activity 1 flipchart themes if you have a photo.
 :::
 
-## Life Cycle of Scientific Teamwork
+## Life Cycle of Scientific Teamwork {.lifecycle}
 
-![](img/teamscience-readiness.PNG)
+![](img/teamscience-readiness.PNG){.r-stretch fig-align="center"}
 
-<p class="small">
+<p class="tiny">
 
 Kilcullen, M. P., Bukhari, I., Terkowitz, M., Stevens, S., Lacanienta,
 C., & Rosen, M. (2026). The Team Science Readiness Framework for
@@ -726,15 +745,15 @@ whether it has this elements for building, maintaining, and sustaining
 (or even amicabling brining a project/team to a close).
 :::
 
-## Take home {.smaller .tight}
+## Team Science - Take homes {.smaller .tight}
 
-- Collaboration is linked with greater research impact, but only when it
-  **works**: that part is learnable
-- Employers inside and outside academia want teamwork, and want
+- Team science and collaboration is linked with greater research impact, but only when it
+  **works**: that part is learnable (transportable ABC's)
+- Employers inside and outside academia increasingly want teamwork, and want
   **evidence** of it
 - Practice **deliberately**, **reflect** (review, improve, plan) after
   each team episode, **collect** evidence as you go
-- You are 23 cross-disciplinary scientists: use each other
+- You are 23 scientists from many disciplines: grow together! 
 
 <p class="small">
 

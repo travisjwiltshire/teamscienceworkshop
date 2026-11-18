@@ -77,6 +77,19 @@ $font-family-sans-serif: "Calibri", "Segoe UI", sans-serif;
   width: 100%;
   object-fit: contain;
 }
+.reveal section.lifecycle h2 {
+  margin-bottom: 0.1em;
+}
+.reveal section.lifecycle img {
+  max-height: 78vh;
+  width: 100%;
+  object-fit: contain;
+  margin: 0;
+}
+.reveal section.lifecycle p.tiny {
+  font-size: 0.4em;
+  margin: 0.2em 0 0;
+}
 .refs p {
   padding-left: 1.5em;
   text-indent: -1.5em;
