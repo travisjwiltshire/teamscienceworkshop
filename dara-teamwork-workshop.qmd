@@ -146,6 +146,27 @@ stakeholders) is the further step relevant to DARA.
 
 ## Why teamwork? {.navy background-color="#1B3668"}
 
+## What is a team? 
+
+::::: columns
+::: {.column width="50%"}
+- When two or more people work together for a period of time toward some shared goal of commonly valued function 
+
+::: {.small}
+Gorman, J. C. (2014). Team coordination and dynamics: two central issues. *Current Directions in Psychological Science, 23*(5), 355-360.
+:::
+:::
+
+::: {.column width="50%"}
+![](img/gorman_team.jpg){fig-alt="Figure from Gorman (2014) on team coordination and dynamics" fig-align="center"}
+:::
+:::::
+
+::: notes
+You can have multi-team systems: teams nested within or linked to other teams working toward larger shared goals.
+:::
+
+
 ## Why teamwork?
 
 It's simple. When people work together, they can accomplish more than
@@ -814,6 +835,9 @@ Gabelica, C., Van Den Bossche, P., De Maeyer, S., Segers, M., &
 Gijselaers, W. (2014). The effect of team feedback and guided
 reflexivity on team performance change. *Learning and Instruction, 34*,
 86–96.
+
+Gorman, J. C. (2014). Team coordination and dynamics: two central issues.
+*Current Directions in Psychological Science, 23*(5), 355-360.
 
 Gurtner, A., Tschan, F., Semmer, N. K., & Nägele, C. (2007). Getting
 groups to develop good strategies: Effects of reflexivity interventions
